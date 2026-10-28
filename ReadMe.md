@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Software Developer with 4+ years of experience delivering 100+ production web applications directly for business<br>clients using JavaScript, TypeScript, Python, Java, React, C#/.NET and REST APIs. Skilled at turning business requirements into<br>working solutions: third-party API and legacy-system integration, SQL-backed workflow and admin applications, and GenAI/LLM<br>features such as AI chatbots and assistants for FAQ automation and lead capture. Strong client communication, fast prototyping<br>and end-to-end ownership from requirements to production support. Two-time Star Performer of the Year.
+Full-Stack Software Developer delivering 100+ production web applications directly for business<br>clients using JavaScript, TypeScript, Python, Java, React, C#/.NET and REST APIs. Skilled at turning business requirements into<br>working solutions: third-party API and legacy-system integration, SQL-backed workflow and admin applications, and GenAI/LLM<br>features such as AI chatbots and assistants for FAQ automation and lead capture. Strong client communication, fast prototyping<br>and end-to-end ownership from requirements to production support. Two-time Star Performer of the Year.
 
 
 ## 🌐 Socials:
